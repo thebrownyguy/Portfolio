@@ -1,0 +1,34 @@
+
+  /* @import url('https://fonts.googleapis.com/css2?family=Jost:ital,wght@0,300;1,200;1,300&display=swap'); */
+
+        
+*{
+    color: #66646d;            
+}
+
+div a{
+    text-decoration: none;
+}
+
+body{
+    background-color: #201d1a;
+}
+
+.top1{
+    width: 45%;
+    float: left;
+}
+
+.top2{
+    width: 50%;
+    float: right;
+}
+
+.sub-container1{
+    height: 440px;
+}
+
+.sub-container2{
+    overflow: scroll;
+    height: 420px;
+}
